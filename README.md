@@ -4,13 +4,15 @@
 [![YOUTUBEMUSIC](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCUkAbYrwdYor05DuvshbAfQ)
 ![DUOLINGO](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 <div style="display: inline_block"><br/>
+    <p>
+        Meu computador >
+    </p>
     <img align="center" alt="intel" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
 </div>
 
 ![Zuccolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannizuccolo&show_icons=true&theme=radical)
 
 ## OS
-
 <div style="display: inline_block"><br/>
     <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img align="center" alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
@@ -25,7 +27,6 @@
 </div>
 
 ## Linguagens
-
 <div style="display: inlene_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
