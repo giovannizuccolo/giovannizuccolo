@@ -4,8 +4,8 @@
 [![YOUTUBEMUSIC](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCUkAbYrwdYor05DuvshbAfQ)
 ![DUOLINGO](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 <div style="display: inline_block"><br/>
-    <p>
-        Meu computador > <img align="center" alt="intel" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+    <p  fontsyle="arial">
+        Meu computador >> <img align="center" alt="intel" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
     </p>
     
 </div>
