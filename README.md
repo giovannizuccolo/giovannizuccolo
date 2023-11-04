@@ -10,7 +10,7 @@
     
 </div>
 
-![Zuccolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannizuccolo&show_icons=true&theme=radical)
+>>![Zuccolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannizuccolo&show_icons=true&theme=radical)
 
 ## OS
 <div style="display: inline_block"><br/>
