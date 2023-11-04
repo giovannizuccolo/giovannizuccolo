@@ -5,7 +5,7 @@
 ![DUOLINGO](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
 <div style="display: inline_block"><br/>
     <img align="center" alt="intel" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
-</div>
+</div><br/>
 
 <!-- ![Zuccolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannizuccolo&show_icons=true&theme=radical) -->
 
@@ -21,7 +21,7 @@
     <img align="center" alt="windows95" src="https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white" />
     <img align="center" alt="windowsxp" src="https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white" />
     <img align="center" alt="windows11" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</div>
+</div><br/>
 
 ## Linguagens
 <div style="display: inlene_block"><br/>
@@ -32,14 +32,14 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
     <img align="center" alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
-</div>
+</div><br/>
 
 ## Oficce
 <div style="display: inlene_block"><br/>
     <img align="center" alt="word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
     <img align="center" alt="powerpoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
     <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</div>
+</div><br/>
 
 
 
