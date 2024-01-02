@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Olá, eu sou o Giovanni Zuccolo.</h1>
-    <div style="display: inline-block; line-height: 5;">
+    <div style="display: inline-block; line-height: 200;">
         <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
         <img align="center" alt="intel" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
         <img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
