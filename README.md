@@ -1,4 +1,4 @@
-### Olá, eu sou o Giovanni Zuccolo. ✋🏼
+### Olá, eu sou o Giovanni Zuccolo.
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giovanni__zuccolo/)
 [![YOUTUBEMUSIC](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/channel/UCUkAbYrwdYor05DuvshbAfQ)
 <div style="display: inline_block"><br/>
