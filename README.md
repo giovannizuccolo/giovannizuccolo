@@ -7,7 +7,9 @@
 
 <!-- ![Zuccolo's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannizuccolo&show_icons=true&theme=radical) -->
 
-## OS <div style="display: inline_block"><br/>
+## OS 
+<div style="display: inline_block"><br/>
+    OS
     <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
     <img align="center" alt="kalilinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
     <img align="center" alt="windows11" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
