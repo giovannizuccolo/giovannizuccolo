@@ -25,7 +25,7 @@
             <img align="center" alt="windows11" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
         </p>
         <p style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-style: italic;">
-            LINGUAGENS:  
+            𝙻𝙸𝙽𝙶𝚄𝙰𝙶𝙴𝙽𝚂:  
             <img align="center" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
             <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
             <img align="center" alt="shellscript" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
