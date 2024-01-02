@@ -10,8 +10,12 @@
         <p style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-style: italic;">
             <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
             <a href="https://wa.link/sfqe1n">
-            <img align="center" alt="intel" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+            <img align="center" alt="whatssap" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
             </a>
+            <a href="mailto:giovannizuccolo.on@gmail.com" /a>
+            <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+            </a>
+            https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
             <img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
             <img align="center" alt="intel" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
         </p>
