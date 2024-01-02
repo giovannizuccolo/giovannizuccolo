@@ -9,7 +9,9 @@
     <div style="display: inline-block; line-height: 30px;">
         <p style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-style: italic;">
             <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+            <a href="https://www.example.com">
             <img align="center" alt="intel" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+            </a>
             <img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
             <img align="center" alt="intel" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
         </p>
