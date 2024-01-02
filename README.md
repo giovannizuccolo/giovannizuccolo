@@ -3,9 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Perfil</title>
     <style>
-        .category {
+        <.category> {
             display: flex;
             align-items: center;
             margin-bottom: 20px;
