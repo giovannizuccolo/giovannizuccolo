@@ -15,7 +15,6 @@
             <a href="mailto:giovannizuccolo.on@gmail.com" /a>
             <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
             </a>
-            https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
             <img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
             <img align="center" alt="intel" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
         </p>
