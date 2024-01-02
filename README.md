@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Olá, eu sou o Giovanni Zuccolo. Estudo Programação e Curso Engenharia da Computação</h1>
+    <h1>Olá, eu sou o Giovanni Zuccolo.</h1>
+    <h3>Estudo Programação e curso Engenharia da Computação.</h3>
     <div style="display: inline-block; line-height: 30px;">
         <p style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-style: italic;">
             <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
