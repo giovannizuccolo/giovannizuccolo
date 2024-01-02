@@ -33,4 +33,6 @@
 
 ## Idle
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+-------------------------------------------------------------------------------------------------------------------------------------------------
 ![imagem](https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif)
