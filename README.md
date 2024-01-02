@@ -13,7 +13,7 @@
             <img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
             <img align="center" alt="intel" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
         </p>
-        <p>
+        <p style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-style: italic;">
             OS:  
             <img align="center" alt="debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />
             <img align="center" alt="kalilinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
