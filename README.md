@@ -31,6 +31,4 @@ IDE:
     <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
     <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
 </div><br/>
------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![imagem](https://i.pinimg.com/originals/75/87/df/7587df77ef521cf98057d0028ee983f1.gif)
