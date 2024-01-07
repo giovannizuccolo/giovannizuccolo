@@ -41,7 +41,6 @@
         <p style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-style: italic;">
             𝕀𝔻𝔼:  
             <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-            <img align="center" alt="pycharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />
             <img align="center" alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
         </p>
         <p>
@@ -66,8 +65,8 @@
         </p>
         <div align="center">
           <a href="https://github.com/giovannizuccolo">
-            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovannizuccolo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-            <img aling="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannizuccolo&theme=dracula&hide_border=false&&layout=compact"/>
+            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovannizuccolo&count_private=true&include_all_commits=true&show_icons=true&theme=react&hide_border=false&show_owner=true"/>
+            <img aling="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannizuccolo&theme=react&hide_border=false&&layout=compact"/>
           </a>
         </div>
         <div align="center" valign="top"><br>
@@ -87,7 +86,7 @@
 
 <div align="center">
 
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/giovannizuccolo/giovannizuccolo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
