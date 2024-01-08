@@ -65,8 +65,8 @@
         </p>
         <div align="center">
           <a href="https://github.com/giovannizuccolo">
-            <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovannizuccolo&count_private=true&include_all_commits=true&show_icons=true&theme=react&hide_border=false&show_owner=true"/>
-            <img aling="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannizuccolo&theme=react&hide_border=false&&layout=compact"/>
+            <img height="140em" src="https://github-readme-stats.vercel.app/api?username=giovannizuccolo&count_private=true&include_all_commits=true&show_icons=true&theme=react&hide_border=false&show_owner=true"/>
+            <img aling="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannizuccolo&theme=react&hide_border=false&&layout=compact"/>
           </a>
         </div>
         <div align="center" valign="top"><br>
