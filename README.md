@@ -15,7 +15,6 @@
             <a href="mailto:giovannizuccolo.on@gmail.com" /a>
             <img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
             </a>
-            <img align="center" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="YouTube Music">
             <img align="center" alt="intel" src="https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
         </p>
         <p style="font-family: 'Courier New', Courier, monospace; font-weight: bold; font-style: italic;">
@@ -45,16 +44,12 @@
         </p>
         <p>
             <a href="https://git-scm.com">
-                <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
             </a>
             <a href="https://github.com">
-                <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
             </a>
             <a href="https://drive.google.com">
-                <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Google Drive">
             </a>
             <a href="https://mega.nz">
-                <img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white" alt="Mega.nz">
             </a>
             <a href="">
                 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
